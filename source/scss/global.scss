@@ -1,0 +1,14 @@
+$basic-black: #121920;
+$basic-white-dark: #EBEBF1;
+$basic-white: #ffffff;
+
+.page {
+  font-family: "Roboto", "Arial", sans-serif;
+  color: $basic-black;
+  background-color: $basic-white;
+}
+
+.container {
+  padding-left: 135px;
+  padding-right: 135px;
+}
